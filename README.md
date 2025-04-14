@@ -1,4 +1,4 @@
-# Eteration Automation Test Case
+# Eteration Cases
 
 **Note:** Zamanım olmadığı için istenilen durumları en temel hali ile tamamladım. Zamanım olsaydı daha profesyonel yapılar çıkartabilirdim.
 
